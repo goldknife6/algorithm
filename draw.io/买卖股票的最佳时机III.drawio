@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T14:14:11.599Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_3XVgUrjxwYiI0hgeZz_" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T14:30:39.457Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fGq3q_SigvSu3UZeuzfB" version="16.1.2" type="github">
   <diagram id="XsuqSf5ixS1CFncZ4B3i" name="第 1 页">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,8 +21,8 @@
         <mxCell id="1W_t99G61_w7l2rFibX5-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;not_hold_once[i-1]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1W_t99G61_w7l2rFibX5-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;not_hold[i]: 第i天结束&lt;b&gt;不持有股票&lt;/b&gt;时，&lt;span&gt;手中拥有的最大现金数&lt;br&gt;&lt;/span&gt;hold[i]: 第i天结束&lt;b&gt;持有股票&lt;/b&gt;时，手中拥有的最大现金数&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="440" height="80" as="geometry" />
+        <mxCell id="1W_t99G61_w7l2rFibX5-5" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;not_hold_once[i]：表示&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;第i天结束第一次不持有股票时手中拥有的最大现金数。&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;hold_once[i]：表示&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;第i天结束第一次持有股票时手中拥有的最大现金数。&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;not_hold_twice[i]：表示&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;第i天结束第二次不持有股票时手中拥有的最大现金数。&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;hold_twice[i]：表示&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;第i天结束第二次持有股票时手中拥有的最大现金数。&lt;/b&gt;&lt;br&gt;&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="600" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1W_t99G61_w7l2rFibX5-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="1W_t99G61_w7l2rFibX5-8" target="1W_t99G61_w7l2rFibX5-12">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="470" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1W_t99G61_w7l2rFibX5-20" value="&lt;font style=&quot;font-size: 12px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;线索1&lt;/b&gt;：&lt;span&gt;最多只能完成两笔交易&lt;/span&gt;&lt;br&gt;&lt;b&gt;线索2&lt;/b&gt;：&lt;/font&gt;&lt;span style=&quot;color: rgb(33 , 40 , 53) ; background-color: rgb(255 , 255 , 255)&quot;&gt;你不能同时参与多笔交易&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="280" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W_t99G61_w7l2rFibX5-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="780" y="480" width="40" height="40" as="geometry" />
