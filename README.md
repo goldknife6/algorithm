@@ -16,6 +16,7 @@
 根据“**二八法则**”的原理，以付出20%的时间成本，获得80%的刷题的收益，让那些想进互联网大厂或心仪公司的人少走些弯路。
 
 **本算法手册的特点**
+
 - 1️⃣金刀亲手制作的图解
 - 2️⃣大厂高频题型
 - 3️⃣算法归类/相似题目归类
@@ -23,13 +24,16 @@
 - 5️⃣LeetCode VIP题型
 
 ----------------------------
-|  图解   |
-|  ----  |
-| [反转链表](https://mp.weixin.qq.com/s/24mgU4nmn-CCw0tkwX4lcQ) |
-| [合并两个有序链表](图解大厂高频算法题/合并两个有序链表.md)  |
-| [复杂链表的复制](图解大厂高频算法题/复杂链表的复制.md)  |
-| [环形链表](图解大厂高频算法题/环形链表.md)  |
-| [链表排序](图解大厂高频算法题/链表排序.md)  |
-| [链表的中间结点](图解大厂高频算法题/链表的中间结点.md)  |
-| [相交链表](图解大厂高频算法题/相交链表.md)  |
-| [删除链表的中间节点](图解大厂高频算法题/删除链表的中间节点.md)  |
+### 链表专项
+|  原文   |  力扣解题  |
+|  :---  |  ----  |
+| [0206-反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [链接](https://leetcode-cn.com/problems/reverse-linked-list/solution/jin-dao-di-gui-die-dai-dang-chu-wo-mian-ndbk6/)  |
+| [0021-合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [链接](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/jin-dao-die-dai-fa-zhe-dao-ti-de-jie-fa-ghqy4/) |
+| [0138-复杂链表的复制](https://leetcode-cn.com/problems/copy-list-with-random-pointer) | [链接](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |
+| [0141-环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [链接](https://leetcode-cn.com/problems/linked-list-cycle/solution/jin-dao-ha-xi-biao-kuai-man-zhi-zhen-yyd-42mi//) |
+| [0148-链表排序](https://leetcode-cn.com/problems/sort-list/) | [链接](https://leetcode-cn.com/problems/sort-list/solution/jin-dao-gui-bing-pai-xu-kan-tu-jiu-dong-wz6y1/) |
+| [0876-链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链接](https://leetcode-cn.com/problems/middle-of-the-linked-list/solution/jin-dao-ji-shu-fa-kuai-man-zhi-zhen-yyds-9fgd/) |
+| [0160-相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [链接](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-b6ko/) |
+| [2095-删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/) | [链接](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/solution/jin-dao-kuai-man-zhi-zhen-yyds-by-glodkn-iycx/) |
+| [0023-合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) |  |
+### 动态规划专项
