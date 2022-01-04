@@ -48,3 +48,15 @@
 | [0265-粉刷房子 II(VIP)](https://leetcode-cn.com/problems/paint-house-ii) | TODO |
 | [0276-栅栏涂色(VIP)](https://leetcode-cn.com/problems/paint-fence) | [链接](https://leetcode-cn.com/problems/paint-fence/solution/jin-dao-dong-tai-gui-hua-you-hua-by-glod-oxhk/) |
 | [0070-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [链接](https://leetcode-cn.com/problems/climbing-stairs/solution/jin-dao-dong-tai-gui-hua-shu-zu-gun-dong-719k/) |
+| [不同路径I](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [不同路径II](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [斐波那契数列](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [使用最小花费爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [零钱兑换](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机I](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机II](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机II](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [买卖股票的最佳时机含冷冻期](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+
