@@ -48,11 +48,11 @@
 | [0265-粉刷房子 II(VIP)](https://leetcode-cn.com/problems/paint-house-ii) | TODO |
 | [0276-栅栏涂色(VIP)](https://leetcode-cn.com/problems/paint-fence) | [链接](https://leetcode-cn.com/problems/paint-fence/solution/jin-dao-dong-tai-gui-hua-you-hua-by-glod-oxhk/) |
 | [0070-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [链接](https://leetcode-cn.com/problems/climbing-stairs/solution/jin-dao-dong-tai-gui-hua-shu-zu-gun-dong-719k/) |
-| [不同路径I](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
-| [不同路径II](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [不同路径I](https://leetcode-cn.com/problems/unique-paths) | [链接](https://leetcode-cn.com/problems/unique-paths/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-l3zj/) |
+| [不同路径II](https://leetcode-cn.com/problems/unique-paths-ii) | [链接](https://leetcode-cn.com/problems/unique-paths-ii/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-8xui/) |
 | [斐波那契数列](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
 | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
-| [零钱兑换](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [链接](https://leetcode-cn.com/problems/coin-change/solution/jin-dao-tuo-tuo-de-dong-tai-gui-hua-by-g-cw9e/) |
 | [买卖股票的最佳时机I](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/jin-dao-die-dai-fa-you-yi-dian-sao-yyds-dbxy4/) |
 | [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/jin-dao-javadong-tai-gui-hua-tan-xin-yyd-ag79/) |
 | [买卖股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/jin-dao-si-chong-fang-fa-bao-ni-quan-bu-y3upb/) |
