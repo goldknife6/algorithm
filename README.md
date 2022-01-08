@@ -35,7 +35,7 @@
 | [0876-链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链接](https://leetcode-cn.com/problems/middle-of-the-linked-list/solution/jin-dao-ji-shu-fa-kuai-man-zhi-zhen-yyds-9fgd/) |
 | [0160-相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [链接](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-b6ko/) |
 | [2095-删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/) | [链接](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/solution/jin-dao-kuai-man-zhi-zhen-yyds-by-glodkn-iycx/) |
-| [0023-合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) |  |
+| [0023-合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [链接](https://leetcode-cn.com/problems/merge-k-sorted-lists/solution/jin-dao-liang-liang-he-bing-pai-xu-gui-b-pmzx/) |
 ### 动态规划专项
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
