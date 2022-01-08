@@ -50,8 +50,8 @@
 | [0070-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [链接](https://leetcode-cn.com/problems/climbing-stairs/solution/jin-dao-dong-tai-gui-hua-shu-zu-gun-dong-719k/) |
 | [不同路径I](https://leetcode-cn.com/problems/unique-paths) | [链接](https://leetcode-cn.com/problems/unique-paths/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-l3zj/) |
 | [不同路径II](https://leetcode-cn.com/problems/unique-paths-ii) | [链接](https://leetcode-cn.com/problems/unique-paths-ii/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-8xui/) |
-| [斐波那契数列](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
-| [使用最小花费爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | TODO |
+| [斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number) | [链接](https://leetcode-cn.com/problems/fibonacci-number/solution/jin-dao-dong-tai-gui-hua-you-hua-di-gui-6px5x/) |
+| [0746-使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [链接](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-as1m/) |
 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [链接](https://leetcode-cn.com/problems/coin-change/solution/jin-dao-tuo-tuo-de-dong-tai-gui-hua-by-g-cw9e/) |
 | [买卖股票的最佳时机I](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/jin-dao-die-dai-fa-you-yi-dian-sao-yyds-dbxy4/) |
 | [买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/jin-dao-javadong-tai-gui-hua-tan-xin-yyd-ag79/) |
