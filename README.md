@@ -45,7 +45,7 @@
 | [0337-打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | TODO |
 | [0221-最大正方形](https://leetcode-cn.com/problems/maximal-square) | [链接](https://leetcode-cn.com/problems/maximal-square/solution/jin-dao-dong-tai-gui-hua-you-hua-yydszui-ieqf/) |
 | [0256-粉刷房子(VIP)](https://leetcode-cn.com/problems/paint-house) | [链接](https://leetcode-cn.com/problems/paint-house/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-5j47/) |
-| [0265-粉刷房子 II(VIP)](https://leetcode-cn.com/problems/paint-house-ii) | TODO |
+| [0265-粉刷房子 II(VIP)](https://leetcode-cn.com/problems/paint-house-ii) | [链接](https://leetcode-cn.com/problems/paint-house-ii/solution/chao-xiang-xi-de-jie-ti-si-lu-you-tu-jie-i8pn/) |
 | [0276-栅栏涂色(VIP)](https://leetcode-cn.com/problems/paint-fence) | [链接](https://leetcode-cn.com/problems/paint-fence/solution/jin-dao-dong-tai-gui-hua-you-hua-by-glod-oxhk/) |
 | [0070-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [链接](https://leetcode-cn.com/problems/climbing-stairs/solution/jin-dao-dong-tai-gui-hua-shu-zu-gun-dong-719k/) |
 | [不同路径I](https://leetcode-cn.com/problems/unique-paths) | [链接](https://leetcode-cn.com/problems/unique-paths/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-l3zj/) |
