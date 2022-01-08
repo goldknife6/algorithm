@@ -50,6 +50,7 @@
 | [0070-爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [链接](https://leetcode-cn.com/problems/climbing-stairs/solution/jin-dao-dong-tai-gui-hua-shu-zu-gun-dong-719k/) |
 | [0062-不同路径I](https://leetcode-cn.com/problems/unique-paths) | [链接](https://leetcode-cn.com/problems/unique-paths/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-l3zj/) |
 | [0063-不同路径II](https://leetcode-cn.com/problems/unique-paths-ii) | [链接](https://leetcode-cn.com/problems/unique-paths-ii/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-8xui/) |
+| [0064-最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [链接](https://leetcode-cn.com/problems/minimum-path-sum/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-2wcw/) |
 | [0509-斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number) | [链接](https://leetcode-cn.com/problems/fibonacci-number/solution/jin-dao-dong-tai-gui-hua-you-hua-di-gui-6px5x/) |
 | [0746-使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [链接](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/jin-dao-dong-tai-gui-hua-you-hua-yyds-by-as1m/) |
 | [0322-零钱兑换I](https://leetcode-cn.com/problems/coin-change/) | [链接](https://leetcode-cn.com/problems/coin-change/solution/jin-dao-tuo-tuo-de-dong-tai-gui-hua-by-g-cw9e/) |
