@@ -65,15 +65,15 @@
 ### 二叉树专项
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0112-路径总和](https://leetcode-cn.com/problems/path-sum/) | TODO |
-| [0102-二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | TODO |
-| [0145-二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | TODO |
-| [0144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | TODO |
-| [0199-二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | TODO |
-| [0094-二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | TODO |
-| [0173-二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | TODO |
-| [0783-二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | TODO |
-| [0230-二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | TODO |
-| [0285-二叉搜索树中的中序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/) | TODO |
-| [0671-二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | TODO |
-| [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | TODO |
+| [0112-路径总和](https://leetcode-cn.com/problems/path-sum/) | [链接](https://leetcode-cn.com/problems/path-sum/solution/jin-dao-di-gui-bfs-by-glodknife-dv69/) |
+| [0102-二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/jin-dao-di-gui-bian-li-bfs-by-glodknife-ydbd/) |
+| [0145-二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/jin-dao-er-cha-shu-hou-xu-bian-li-di-gui-2u8q/) |
+| [0144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/jin-dao-er-cha-shu-xian-xu-bian-li-di-gu-13n2/) |
+| [0199-二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [链接](https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/jin-dao-er-cha-shu-de-ceng-xu-bian-li-di-kx7t/) |
+| [0094-二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/jin-dao-er-cha-shu-zhong-xu-bian-li-di-g-y7ho/) |
+| [0173-二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [链接](https://leetcode-cn.com/problems/binary-search-tree-iterator/solution/jin-dao-di-gui-die-dai-liao-jie-duo-xing-6kp9/) |
+| [0783-二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [链接](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/solution/jin-dao-zhong-xu-bian-li-di-gui-die-dai-xxyt6/) |
+| [0230-二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [链接](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/solution/jin-dao-zhong-xu-bian-li-di-gui-tong-yon-5t3x/) |
+| [0285-二叉搜索树中的中序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/) | [链接](https://leetcode-cn.com/problems/inorder-successor-in-bst/solution/jin-dao-zhong-xu-bian-li-di-gui-die-dai-zvjfr/) |
+| [0671-二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [链接](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/solution/jin-dao-liang-ge-fang-fa-de-di-gui-by-gl-raci/) |
+| [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
