@@ -76,4 +76,4 @@
 | [0230-二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [链接](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/solution/jin-dao-zhong-xu-bian-li-di-gui-tong-yon-5t3x/) |
 | [0285-二叉搜索树中的中序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/) | [链接](https://leetcode-cn.com/problems/inorder-successor-in-bst/solution/jin-dao-zhong-xu-bian-li-di-gui-die-dai-zvjfr/) |
 | [0671-二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [链接](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/solution/jin-dao-liang-ge-fang-fa-de-di-gui-by-gl-raci/) |
-| [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
+| [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [链接](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
