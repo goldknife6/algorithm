@@ -23,6 +23,13 @@
 - 4️⃣通用解题思路
 - 5️⃣LeetCode VIP题型
 
+**交流讨论**
+
+一个人刷题很孤单，欢迎大家前来讨论，我们一起组队刷题（点击公众号的菜单：其他-交流讨论），同时也欢迎关注公众号(本公众号非常纯净~)。
+<p align="center">
+    <img src="https://raw.githubusercontent.com/goldknife6/algorithm/main/resource/image/qr1.png" width="500px">
+</p>
+
 ----------------------------
 ### 链表专项
 |  力扣  |  力扣解题  |
