@@ -80,7 +80,8 @@
 ### 二叉树专项
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0112-路径总和](https://leetcode-cn.com/problems/path-sum/) | [链接](https://leetcode-cn.com/problems/path-sum/solution/jin-dao-di-gui-bfs-by-glodknife-dv69/) |
+| [0112-路径总和I](https://leetcode-cn.com/problems/path-sum/) | [链接](https://leetcode-cn.com/problems/path-sum/solution/jin-dao-di-gui-bfs-by-glodknife-dv69/) |
+| [0098-路径总和II](https://leetcode-cn.com/problems/path-sum-ii/) | [链接](https://leetcode-cn.com/problems/path-sum-ii/solution/jin-dao-di-gui-bian-li-by-glodknife-u3rf/) |
 | [0102-二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/jin-dao-di-gui-bian-li-bfs-by-glodknife-ydbd/) |
 | [0145-二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/jin-dao-er-cha-shu-hou-xu-bian-li-di-gui-2u8q/) |
 | [0144-二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [链接](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/jin-dao-er-cha-shu-xian-xu-bian-li-di-gu-13n2/) |
@@ -92,3 +93,6 @@
 | [0285-二叉搜索树中的中序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/) | [链接](https://leetcode-cn.com/problems/inorder-successor-in-bst/solution/jin-dao-zhong-xu-bian-li-di-gui-die-dai-zvjfr/) |
 | [0671-二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/) | [链接](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/solution/jin-dao-liang-ge-fang-fa-de-di-gui-by-gl-raci/) |
 | [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [链接](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
+| [0426-将二叉搜索树转化为排序的双向链表](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [链接](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solution/jin-dao-di-gui-zhong-xu-bian-li-by-glodk-ald7/) |
+
+
