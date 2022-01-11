@@ -95,4 +95,8 @@
 | [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [链接](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
 | [0426-将二叉搜索树转化为排序的双向链表](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [链接](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solution/jin-dao-di-gui-zhong-xu-bian-li-by-glodk-ald7/) |
 
-
+### 数组专项
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
+| [0088-合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [链接](https://leetcode-cn.com/problems/merge-sorted-array/solution/jin-dao-yi-ti-shuang-jie-pai-xu-die-dai-wksct/)  |
+| [0169-多数元素](https://leetcode-cn.com/problems/majority-element/) | [链接](https://leetcode-cn.com/problems/majority-element/solution/jin-dao-pai-xu-tou-piao-fa-by-glodknife-p859/) |
