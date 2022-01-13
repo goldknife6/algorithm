@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T05:50:35.850Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kbZ866OjrqWGyIWMqfxb" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T06:15:36.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4EPXf-Y0Whxb9OjCXdun" version="16.1.0" type="github">
   <diagram id="rwOtDcwWvdihoHaZgd4A" name="第 1 页">
     <mxGraphModel dx="1042" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="220" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="260" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="300" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="40" height="40" as="geometry" />
@@ -61,8 +61,8 @@
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;fontSize=14;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="vkc_qpuaFF8Upc0yJlBS-21" value="如果i &amp;lt; k - 1&lt;br&gt;需要对i +1 ... n-1这部分数组继续使用&lt;span&gt;partition来&lt;/span&gt;pivot&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="400" height="40" as="geometry" />
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-21" value="如果i &amp;lt; k - 1&lt;br&gt;需要对i +1 ... n-1这部分数组继续使用&lt;span&gt;partition来寻找&lt;/span&gt;pivot&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="40" height="40" as="geometry" />
@@ -116,52 +116,64 @@
           <mxGeometry x="500" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;fontSize=14;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="310" y="550" width="20" height="200" as="geometry" />
+          <mxGeometry x="310" y="490" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-42" value="如果i &amp;gt; k - 1&lt;br&gt;需要对0 ... i-1这部分数组继续使用&lt;span&gt;partition来寻找&lt;/span&gt;pivot&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="400" height="40" as="geometry" />
+          <mxGeometry x="220" y="605" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="420" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-48" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="220" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-49" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="260" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-50" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="340" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-51" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="420" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="420" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-52" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-53" value="n-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="540" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="540" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-54" value="n-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="580" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="580" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-55" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;pivot&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="420" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="540" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="600" width="40" height="40" as="geometry" />
+          <mxGeometry x="580" y="540" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-59" value="k - 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="300" y="500" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-61" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontFamily=Comic Sans MS;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-63" value="全比pivot小" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-64" value="全比pivot大" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
