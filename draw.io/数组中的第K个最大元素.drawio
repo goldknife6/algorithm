@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:56:40.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Gp27fWRiJ1-wZND8XFFw" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T02:22:01.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4CRAN_-KXDnjBSEuklPB" version="16.1.0" type="github">
   <diagram id="rwOtDcwWvdihoHaZgd4A" name="第 1 页">
     <mxGraphModel dx="947" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -244,17 +244,8 @@
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-117" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="560" y="1000" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vkc_qpuaFF8Upc0yJlBS-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="880" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vkc_qpuaFF8Upc0yJlBS-119" value="表示大于pivot的元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="880" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vkc_qpuaFF8Upc0yJlBS-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="930" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vkc_qpuaFF8Upc0yJlBS-121" value="表示小于等于pivot的元素" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="930" width="200" height="40" as="geometry" />
+        <mxCell id="vkc_qpuaFF8Upc0yJlBS-121" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;蓝色区域&lt;/font&gt;：表示大于pivot的元素&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;红色区域&lt;/font&gt;：表示小于等于pivot的元素&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#67ab9f&quot;&gt;绿色元素&lt;/font&gt;：表示pivot目标元素&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="930" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-122" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1209" width="160" height="40" as="geometry" />
@@ -311,28 +302,28 @@
           <mxGeometry x="240" y="1440" width="360" height="71" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1560" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="1551" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-168" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;pivot&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1560" width="40" height="40" as="geometry" />
+          <mxGeometry x="400" y="1551" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-169" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1560" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="1551" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-170" value="left,right" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1520" width="80" height="41" as="geometry" />
+          <mxGeometry x="380" y="1511" width="80" height="41" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-172" value="&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1560" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="1551" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-173" value="j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1520" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="1511" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-174" value="i" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1520" width="40" height="40" as="geometry" />
+          <mxGeometry x="240" y="1511" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vkc_qpuaFF8Upc0yJlBS-175" value="当nums[left]小于等于pivot时&lt;br&gt;直接对nums[left]与nums[j]进行交换&lt;br&gt;&lt;div class=&quot;okr-block-clipboard&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1600" width="360" height="71" as="geometry" />
+          <mxGeometry x="240" y="1591" width="360" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
