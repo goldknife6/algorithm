@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T06:01:15.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1OxP_JGlO4xGjltDDsCT" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-18T02:27:23.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SED6--jkIlQ7ygASLmZp" version="16.1.0" type="github">
   <diagram id="2Csi6qzBKeMIDy0jQryI" name="第 1 页">
     <mxGraphModel dx="1042" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -41,28 +41,28 @@
           <mxGeometry x="240" y="220" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-17" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="280" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="600" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-21" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="400" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="680" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-22" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="40" height="40" as="geometry" />
+          <mxGeometry x="720" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=1;fontFamily=Comic Sans MS;rotation=90;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="20" height="200" as="geometry" />
+          <mxGeometry x="650" y="110" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-24" value="从5个牌中随机选取1个与第1个牌进行交换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="240" height="40" as="geometry" />
+          <mxGeometry x="520" y="220" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-25" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="40" height="40" as="geometry" />
@@ -71,64 +71,64 @@
           <mxGeometry x="440" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-27" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-28" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="560" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-29" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="600" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-30" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-31" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="680" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-32" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="270" width="40" height="40" as="geometry" />
+          <mxGeometry x="720" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="800" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="280" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-35" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="320" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="880" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-36" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="360" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="920" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-37" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="400" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="960" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-38" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="440" y="455" width="40" height="40" as="geometry" />
+          <mxGeometry x="1000" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=1;fontFamily=Comic Sans MS;rotation=90;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="390" y="425" width="20" height="160" as="geometry" />
+          <mxGeometry x="950" y="130" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-40" value="从4个牌中随机选取1个与第2个牌进行交换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="240" y="515" width="240" height="40" as="geometry" />
+          <mxGeometry x="800" y="220" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-41" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="800" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-42" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="840" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-43" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="880" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-44" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="920" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-45" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="960" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gbPNROg_m_VoktVoEbgj-46" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="415" width="40" height="40" as="geometry" />
+          <mxGeometry x="1000" y="120" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
