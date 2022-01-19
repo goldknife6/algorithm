@@ -51,6 +51,7 @@
 | [0160-相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [链接](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-b6ko/) |
 | [2095-删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/) | [链接](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/solution/jin-dao-kuai-man-zhi-zhen-yyds-by-glodkn-iycx/) |
 | [0023-合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [链接](https://leetcode-cn.com/problems/merge-k-sorted-lists/solution/jin-dao-liang-liang-he-bing-pai-xu-gui-b-pmzx/) |
+
 ### 动态规划专项
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
@@ -102,12 +103,14 @@
 | [0169-多数元素](https://leetcode-cn.com/problems/majority-element/) | [链接](https://leetcode-cn.com/problems/majority-element/solution/jin-dao-pai-xu-tou-piao-fa-by-glodknife-p859/) |
 
 ### 滑动窗口
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0217-存在重复元素I](https://leetcode-cn.com/problems/contains-duplicate/) | TODO |
 | [0219-存在重复元素II](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [链接](https://leetcode-cn.com/problems/contains-duplicate-ii/solution/jin-dao-hua-dong-chuang-kou-ha-xi-biao-b-ae17/) |
 | [0220-最近的请求次数III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | TODO |
 | [0239-滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | TODO |
 | [0713-乘积小于K的子数组](https://leetcode-cn.com/problems/subarray-product-less-than-k/) | TODO |
-| [0003-无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/ | TODO |
+| [0003-无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | TODO |
 | [0239-滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | TODO |
 | [0187-重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | TODO |
 | [0076-最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | TODO |
@@ -116,11 +119,15 @@
 | [0933-最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/) | TODO |
 
 ### 随机化算法
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0382-链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | TODO |
 | [0384-打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | TODO |
 | [0470-用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | TODO |
 
 ### 前缀和
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0238-自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | TODO |
 | [0209-长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | TODO |
 | [0560-和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | TODO |
@@ -128,11 +135,15 @@
 | [0523-连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | TODO |
 
 ### 矩阵
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0498-对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) | TODO |
 | [0054-螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | TODO |
 | [0059-螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | TODO |
 
 ### 位运算
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0442-数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | TODO |
 | [0089-格雷编码](https://leetcode-cn.com/problems/gray-code/) | TODO |
 | [0078-子集](https://leetcode-cn.com/problems/subsets/) | TODO |
@@ -142,11 +153,15 @@
 
 
 ### 全排列
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0047-全排列II](https://leetcode-cn.com/problems/permutations-ii/) | TODO |
 | [0060-排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | TODO |
 | [0077-组合](https://leetcode-cn.com/problems/combinations/) | TODO |
 
 ### 其他高频算法
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0146-LRU缓存](https://leetcode-cn.com/problems/lru-cache/) | TODO |
 | [0875-爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) | TODO |
 | [0299-猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | TODO |
@@ -156,5 +171,7 @@
 | [0105-从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | TODO |
 
 ### 数据流问题
+|  力扣  |  力扣解题  |
+|  :---  |  ----  |
 | [0703-数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | TODO |
 | [0295-数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | TODO |
