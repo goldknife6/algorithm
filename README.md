@@ -101,13 +101,12 @@
 |  :---  |  ----  |
 | [0088-合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [链接](https://leetcode-cn.com/problems/merge-sorted-array/solution/jin-dao-yi-ti-shuang-jie-pai-xu-die-dai-wksct/)  |
 | [0169-多数元素](https://leetcode-cn.com/problems/majority-element/) | [链接](https://leetcode-cn.com/problems/majority-element/solution/jin-dao-pai-xu-tou-piao-fa-by-glodknife-p859/) |
-| [0334-递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | TODO  |
-| [0169-多数元素](https://leetcode-cn.com/problems/merge-sorted-array/) | TODO |
-| [0215-数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | TODO  |
-| [0055-跳跃游戏I](https://leetcode-cn.com/problems/jump-game/) | TODO |
-| [0045-跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/) | TODO |
-| [0031-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | TODO |
-| [0075-颜色分类](https://leetcode-cn.com/problems/sort-colors/) | TODO |
+| [0334-递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [链接](https://leetcode-cn.com/problems/increasing-triplet-subsequence/solution/jin-dao-shuang-xiang-bian-li-tan-xin-by-hh0uj/)  |
+| [0215-数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [链接](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/solution/jin-dao-kuai-pai-si-xiang-you-xian-dui-l-jqf7/)  |
+| [0055-跳跃游戏I](https://leetcode-cn.com/problems/jump-game/) | [链接](https://leetcode-cn.com/problems/jump-game/solution/jin-dao-tan-xin-fa-by-glodknife-6m27/) |
+| [0045-跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/) | [链接](https://leetcode-cn.com/problems/jump-game-ii/solution/jin-dao-tan-xin-fa-by-glodknife-cxd2/) |
+| [0031-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [链接](https://leetcode-cn.com/problems/next-permutation/solution/jin-dao-tan-xin-fa-by-glodknife-ybgg/) |
+| [0075-颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [链接](https://leetcode-cn.com/problems/sort-colors/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-cok9/) |
 | [0032-最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | TODO |
 
 ### 滑动窗口
