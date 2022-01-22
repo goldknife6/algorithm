@@ -101,6 +101,14 @@
 |  :---  |  ----  |
 | [0088-合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [链接](https://leetcode-cn.com/problems/merge-sorted-array/solution/jin-dao-yi-ti-shuang-jie-pai-xu-die-dai-wksct/)  |
 | [0169-多数元素](https://leetcode-cn.com/problems/majority-element/) | [链接](https://leetcode-cn.com/problems/majority-element/solution/jin-dao-pai-xu-tou-piao-fa-by-glodknife-p859/) |
+| [0334-递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | TODO  |
+| [0169-多数元素](https://leetcode-cn.com/problems/merge-sorted-array/) | TODO |
+| [0215-数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | TODO  |
+| [0055-跳跃游戏I](https://leetcode-cn.com/problems/jump-game/) | TODO |
+| [0045-跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/) | TODO |
+| [0031-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | TODO |
+| [0075-颜色分类](https://leetcode-cn.com/problems/sort-colors/) | TODO |
+| [0032-最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | TODO |
 
 ### 滑动窗口
 |  力扣  |  力扣解题  |
