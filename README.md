@@ -107,7 +107,7 @@
 | [0045-跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/) | [链接](https://leetcode-cn.com/problems/jump-game-ii/solution/jin-dao-tan-xin-fa-by-glodknife-cxd2/) |
 | [0031-下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [链接](https://leetcode-cn.com/problems/next-permutation/solution/jin-dao-tan-xin-fa-by-glodknife-ybgg/) |
 | [0075-颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [链接](https://leetcode-cn.com/problems/sort-colors/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-cok9/) |
-| [0032-最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | TODO |
+| [0032-最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [链接](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/jin-dao-zhan-shuang-xiang-sao-miao-yyds-g0y7k/) |
 
 ### 滑动窗口
 |  力扣  |  力扣解题  |
