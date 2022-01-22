@@ -121,9 +121,9 @@
 ### 随机化算法
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0382-链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | TODO |
-| [0384-打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | TODO |
-| [0470-用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | TODO |
+| [0382-链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [链接](https://leetcode-cn.com/problems/linked-list-random-node/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-nr9i/) |
+| [0384-打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | [链接](https://leetcode-cn.com/problems/shuffle-an-array/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-awb7/) |
+| [0470-用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | [链接](https://leetcode-cn.com/problems/implement-rand10-using-rand7/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-68xw/) |
 
 ### 前缀和
 |  力扣  |  力扣解题  |
