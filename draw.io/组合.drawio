@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T08:50:42.056Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="4I8vxkQBuP1LcOHONdFg" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T09:37:49.719Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="c1DYRvAGAdsuOBtB7A5q" version="16.5.2" type="github">
   <diagram id="FwDB8a5TnerBLesVIJ4h" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -149,8 +149,8 @@
         <mxCell id="h1wrurm3pnkJPPi2ohvz-43" value="选4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h1wrurm3pnkJPPi2ohvz-45" value="结果集合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="70" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="h1wrurm3pnkJPPi2ohvz-45" value="结果集合，其中红色节点表示叶子节点，每一个叶子节点表示一个组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="700" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h1wrurm3pnkJPPi2ohvz-46" value="n=4, k=2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="160" height="20" as="geometry" />
