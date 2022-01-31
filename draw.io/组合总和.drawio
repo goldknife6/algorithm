@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T15:57:34.583Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="p77Ct14ArQjab2kNcqX-" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T15:59:06.603Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jsFPG-JJUAw3HgB6tCWL" version="16.5.2" type="github">
   <diagram id="VmhMzs8Zjt3d0bLiN4BX" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hxtxEllvOD_53zIw53Yv-1" value="绿色和红色节点为叶子节点&lt;br&gt;绿色节点：表示符合条件的组合&lt;br&gt;红色节点：表示不符合条件的组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="280" y="395" width="460" height="50" as="geometry" />
+        <mxCell id="hxtxEllvOD_53zIw53Yv-1" value="蓝色节点为每一次选择时的候选元素&lt;br&gt;绿色和红色节点为叶子节点&lt;br&gt;绿色节点：表示符合条件的组合&lt;br&gt;红色节点：表示不符合条件的组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="460" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hxtxEllvOD_53zIw53Yv-2" value="candidates=[2,3,6,7]&lt;br&gt;target=7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="160" height="40" as="geometry" />
