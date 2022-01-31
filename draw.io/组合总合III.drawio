@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T08:29:40.570Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="i7TryZ8_ePZL9VEwKKzw" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T08:34:44.825Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="y-4UToKhX3tIe8VNWDom" version="16.5.2" type="github">
   <diagram id="NoDILGUKRQpbgBhr8J0K" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-38" value="选2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1GqySz-qCQZ0IoMKtCMp-44" value="结果集合，其中红色节点表示叶子节点，每一个叶子节点表示一个组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="122.44" y="380" width="796" height="30" as="geometry" />
+        <mxCell id="1GqySz-qCQZ0IoMKtCMp-44" value="红色和绿色节点为叶子节点，表示一个组合&lt;br&gt;红色节点：表示符合n=12, k=3的结果集合&lt;br&gt;绿色节点：也是组合，但不符n=12,k=3的要求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="122.44" y="410" width="797.56" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-45" value="n=12, k=3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fontFamily=Comic Sans MS;fontSize=14;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="320" height="20" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="558.44" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-127" value="选9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="470.94" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="468.44" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-142" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="138.44" y="340" width="40" height="40" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry x="360.94" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-150" value="选3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="218.44" y="310" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-151" value="选8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370.94" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="340" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-152" value="... ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410.94" y="340" width="57.5" height="40" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="710.94" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-165" value="选5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="698.44" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="665" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-166" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="778.44" y="340" width="40" height="40" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry x="858.44" y="340" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-169" value="选6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="763.44" y="320" width="40" height="20" as="geometry" />
+          <mxGeometry x="775" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1GqySz-qCQZ0IoMKtCMp-172" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Comic Sans MS&quot;&gt;空&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="70" height="40" as="geometry" />
