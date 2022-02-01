@@ -39,7 +39,7 @@
 
 
 ----------------------------
-### 链表专项
+### 链表专项(9)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0206-反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [链接](https://leetcode-cn.com/problems/reverse-linked-list/solution/jin-dao-di-gui-die-dai-dang-chu-wo-mian-ndbk6/)  |
@@ -52,7 +52,7 @@
 | [2095-删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/) | [链接](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list/solution/jin-dao-kuai-man-zhi-zhen-yyds-by-glodkn-iycx/) |
 | [0023-合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [链接](https://leetcode-cn.com/problems/merge-k-sorted-lists/solution/jin-dao-liang-liang-he-bing-pai-xu-gui-b-pmzx/) |
 
-### 动态规划专项
+### 动态规划专项(20)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0152-乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | [链接](https://leetcode-cn.com/problems/maximum-product-subarray/solution/jin-dao-dong-tai-gui-hua-you-hua-by-glod-m30e/) |
@@ -78,7 +78,7 @@
 | [0714-买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solution/jin-dao-san-chong-fang-fa-jie-jue-han-sh-938z/) |
 | [0309-买卖股票的最佳时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [链接](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/jin-dao-iudai-ni-jie-jue-han-leng-dong-q-7zyj/) |
 
-### 二叉树专项
+### 二叉树专项(14)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0112-路径总和I](https://leetcode-cn.com/problems/path-sum/) | [链接](https://leetcode-cn.com/problems/path-sum/solution/jin-dao-di-gui-bfs-by-glodknife-dv69/) |
@@ -96,7 +96,7 @@
 | [0098-验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [链接](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/jin-dao-er-cha-sou-suo-shu-xiang-xi-jian-4t7q/) |
 | [0426-将二叉搜索树转化为排序的双向链表](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [链接](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/solution/jin-dao-di-gui-zhong-xu-bian-li-by-glodk-ald7/) |
 
-### 数组专项
+### 数组专项(9)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0088-合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [链接](https://leetcode-cn.com/problems/merge-sorted-array/solution/jin-dao-yi-ti-shuang-jie-pai-xu-die-dai-wksct/)  |
@@ -109,7 +109,7 @@
 | [0075-颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [链接](https://leetcode-cn.com/problems/sort-colors/solution/jin-dao-shuang-zhi-zhen-yyds-by-glodknif-cok9/) |
 | [0032-最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [链接](https://leetcode-cn.com/problems/longest-valid-parentheses/solution/jin-dao-zhan-shuang-xiang-sao-miao-yyds-g0y7k/) |
 
-### 滑动窗口
+### 滑动窗口(7)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0217-存在重复元素I](https://leetcode-cn.com/problems/contains-duplicate/) | TODO |
@@ -125,14 +125,14 @@
 | [1004-最大连续1的个数III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | TODO |
 | [0933-最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/) | TODO |
 
-### 随机化算法
+### 随机化算法(3)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0382-链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/) | [链接](https://leetcode-cn.com/problems/linked-list-random-node/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-nr9i/) |
 | [0384-打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | [链接](https://leetcode-cn.com/problems/shuffle-an-array/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-awb7/) |
 | [0470-用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | [链接](https://leetcode-cn.com/problems/implement-rand10-using-rand7/solution/jin-dao-iudai-ni-jie-jue-sui-ji-hua-suan-68xw/) |
 
-### 前缀和
+### 前缀和(3)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0238-自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | TODO |
@@ -141,7 +141,7 @@
 | [0525-连续数组](https://leetcode-cn.com/problems/contiguous-array/) | TODO |
 | [0523-连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | TODO |
 
-### 矩阵
+### 矩阵(3)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0498-对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) | TODO |
@@ -159,7 +159,7 @@
 | [0137-只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/) | TODO |
 
 
-### 全排列
+### 全排列(4)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0047-全排列II](https://leetcode-cn.com/problems/permutations-ii/) | TODO |
@@ -178,7 +178,7 @@
 | [0106-从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | TODO |
 | [0105-从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | TODO |
 
-### 数据流问题
+### 数据流问题(2)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
 | [0703-数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | TODO |
