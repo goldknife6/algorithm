@@ -164,7 +164,8 @@
 |  :---  |  ----  |
 | [0047-全排列II](https://leetcode-cn.com/problems/permutations-ii/) | TODO |
 | [0060-排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | TODO |
-| [0077-组合](https://leetcode-cn.com/problems/combinations/) | TODO |
+| [0077-组合](https://leetcode-cn.com/problems/combinations/) | [链接](https://leetcode-cn.com/problems/combinations/solution/jin-dao-hui-su-fa-by-glodknife-kk08/) |
+| [0017-电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [链接](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/jin-dao-hui-su-fa-by-glodknife-eg8c/) |
 
 ### 其他高频算法
 |  力扣  |  力扣解题  |
