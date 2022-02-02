@@ -181,5 +181,5 @@
 ### 数据流问题(2)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0703-数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | TODO |
-| [0295-数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | TODO |
+| [0703-数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [链接](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/solution/jin-dao-you-xian-ji-dui-lie-by-glodknife-mh5s/) |
+| [0295-数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [链接](https://leetcode-cn.com/problems/find-median-from-data-stream/solution/jin-dao-shuang-you-xian-ji-dui-lie-by-gl-5bec/) |
