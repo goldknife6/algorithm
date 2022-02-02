@@ -137,16 +137,16 @@
 |  :---  |  ----  |
 | [0238-自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | TODO |
 | [0209-长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | TODO |
-| [0560-和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | TODO |
-| [0525-连续数组](https://leetcode-cn.com/problems/contiguous-array/) | TODO |
+| [0560-和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [链接](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/jin-dao-san-chong-fang-fa-mei-ju-qian-zh-2iy3/) |
+| [0525-连续数组](https://leetcode-cn.com/problems/contiguous-array/) | [链接](https://leetcode-cn.com/problems/contiguous-array/solution/jin-dao-san-chong-fang-fa-mei-ju-qian-zh-on9x/) |
 | [0523-连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | TODO |
 
 ### 矩阵(3)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0498-对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) | TODO |
-| [0054-螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | TODO |
-| [0059-螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | TODO |
+| [0498-对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) | [链接](https://leetcode-cn.com/problems/diagonal-traverse/solution/jin-dao-yi-ci-bian-li-zhao-gui-lu-by-glo-dvkm/) |
+| [0054-螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [链接](https://leetcode-cn.com/problems/spiral-matrix/solution/jin-dao-mo-ni-suo-jian-bian-jie-fan-wei-6aa2n/) |
+| [0059-螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [链接](https://leetcode-cn.com/problems/spiral-matrix-ii/solution/jin-dao-mo-ni-suo-jian-bian-jie-fan-wei-6z9bt/) |
 
 ### 位运算
 |  力扣  |  力扣解题  |
@@ -162,8 +162,8 @@
 ### 全排列(4)
 |  力扣  |  力扣解题  |
 |  :---  |  ----  |
-| [0047-全排列II](https://leetcode-cn.com/problems/permutations-ii/) | TODO |
-| [0060-排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | TODO |
+| [0039-组合总和](https://leetcode-cn.com/problems/combination-sum/) | [链接](https://leetcode-cn.com/problems/combination-sum/solution/jin-dao-hui-su-fa-by-glodknife-3sl9/) |
+| [0216-组合总和III](https://leetcode-cn.com/problems/combination-sum-iii/) | [链接](https://leetcode-cn.com/problems/combination-sum-iii/solution/jin-dao-hui-su-fa-jian-zhi-by-glodknife-mmtl/) |
 | [0077-组合](https://leetcode-cn.com/problems/combinations/) | [链接](https://leetcode-cn.com/problems/combinations/solution/jin-dao-hui-su-fa-by-glodknife-kk08/) |
 | [0017-电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [链接](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/jin-dao-hui-su-fa-by-glodknife-eg8c/) |
 
